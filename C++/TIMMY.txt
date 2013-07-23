@@ -1,0 +1,45 @@
+BASICS
+
+Syntax: language
+
+; (end of every line in C++)
+python the semi colon is not needed
+code > compiler, translate it into binary numbers 
+COMPUTERS ARE DUMB
+ all code in main function, normally use void main
+\
+
+
+
+first one always remember \
+
+s#include <iostream>
+using namespace std;
+void main() 
+{
+	cout << "Hello World";
+	system ("pause");
+}
+
+
+
+
+library: collection of functions thaat computer can use only if you include it
+
+namespace is different kind of library,
+
+c out is standard function
+void main is  the function
+variables; a box where you store data
+types of variables
+int- whole numbers only 
+double- decimal point moreprecise
+float- floating point, lessprecise
+string- include the string library, array of characters
+boolean- true or false, 1 or 0
+char- a, b, etc, letter but also a letter representation of a number
+
+initializing a variable 
+type name = value 
+to add string  #include <string>
+\multiple in<< must be on different lines
